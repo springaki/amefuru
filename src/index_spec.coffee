@@ -14,7 +14,7 @@ describe "index", ->
   describe ".handler", ->
     it "", (done)->
       event = {
-        coordinates: "139.732293,35.663613"
+        coordinates: "135.270593,34.727794" # 神戸
         output: "json"
       }
       context = {
